@@ -7,7 +7,7 @@ gamerule sendCommandFeedback false
 gamerule commandBlockOutput false
 
 ### Debug info
-say YeEtz!
+# say YeEtz!
 
 ### Enable GetBrushes command
 scoreboard players enable @a GetBrushes
