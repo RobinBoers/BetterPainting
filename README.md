@@ -9,3 +9,5 @@ Thats it.
 
 ##### Coming Soon:
 - Painting in 3D
+
+Compatibility: 1.15-1.16.2
