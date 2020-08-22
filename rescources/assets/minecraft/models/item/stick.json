@@ -4,9 +4,9 @@
         "layer0": "item/stick"
     },
     "overrides": [
-        {"predicate": {"custom_model_data": 0001},"model": "painting/red_brush"},
-        {"predicate": {"custom_model_data": 0002},"model": "painting/blue_brush"},
-        {"predicate": {"custom_model_data": 0003},"model": "painting/green_brush"},
-        {"predicate": {"custom_model_data": 0004},"model": "painting/yellow_brush"}
+        {"predicate": {"custom_model_data": 1},"model": "painting/red_brush"},
+        {"predicate": {"custom_model_data": 2},"model": "painting/blue_brush"},
+        {"predicate": {"custom_model_data": 3},"model": "painting/green_brush"},
+        {"predicate": {"custom_model_data": 4},"model": "painting/yellow_brush"}
     ]
 }
